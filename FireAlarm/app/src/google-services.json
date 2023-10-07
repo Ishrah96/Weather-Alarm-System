@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28275050449",
+    "firebase_url": "https://smartgroupproject-4ff0b-default-rtdb.firebaseio.com",
+    "project_id": "smartgroupproject-4ff0b",
+    "storage_bucket": "smartgroupproject-4ff0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28275050449:android:57cc8b9f442ff33c9a82f0",
+        "android_client_info": {
+          "package_name": "com.example.firealarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28275050449-meffhjgs9mfuahgh1e72hr23jattbpbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firealarm",
+            "certificate_hash": "470ec20f35f33944b966bf09ceea6c7aa4accf9a"
+          }
+        },
+        {
+          "client_id": "28275050449-mq21k8jkpb1b72r6as55t8etuldursbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOmxpo6bwI7NfS1qbkvUGzbgxJ4osSaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28275050449-mq21k8jkpb1b72r6as55t8etuldursbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
